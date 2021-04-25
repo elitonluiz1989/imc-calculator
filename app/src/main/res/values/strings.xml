@@ -2,5 +2,5 @@
     <string name="app_name">IMC Calculator</string>
     <string name="calculate">Calculate</string>
     <string name="input_weight_hint">Weight (ex.: 80.0kg)</string>
-    <string name="input_height_hint">Height (ex.: 180cm)</string>
+    <string name="input_height_hint">Height (ex.: 1.80m)</string>
 </resources>
